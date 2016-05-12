@@ -27,5 +27,7 @@
 
 [core]
 	whitespace = cr-at-eol
+    editor = vim
+
 [merge]
 	tool = meld
